@@ -1,0 +1,139 @@
+
+
+.jan{
+    position: absolute;
+    bottom: 10px;
+    left: 138px;
+}
+div .bj{
+    border: none;
+}
+.j{
+    position: absolute;
+    bottom: 12px;
+    border: none;
+}
+.p{
+    position: absolute;
+    top: 17px;
+    right: 205px;
+}
+select{
+    border: none;
+}
+ .l{
+     position: absolute;
+     top: 19px;
+     right: 120px;
+ }
+    .no{
+        border: none;
+    }
+
+    .second{
+        background-color: #232f3e;
+    }
+    li a:hover{
+     border: 1px solid white;
+     
+    }
+    div .m:hover{
+        border: 1px solid white;
+    
+    }
+    .four span{
+        position: absolute;
+        bottom: 220px;
+        width: 95%;
+        position: relative;
+        left: 20px;
+        right: 20px;
+        
+    }
+    .link{
+        text-decoration: none;
+    }
+    .link:hover{
+        color: red;
+        text-decoration: underline;
+    }
+
+   .card-footer,.kkk{
+ text-decoration: none;
+    }
+  .kkk:hover{
+    color: red;
+  }
+
+  .five{
+    position: absolute;
+    top: 440px;
+    left: 22px;
+  }
+figure, .left{
+    float: left;
+    padding-bottom: 15px;
+}
+figure, .right{
+    float: right;
+}
+    
+.six{
+    padding-top: 280px;
+    padding-left: 10px;
+}
+.janu{
+    background-color: rgba(0, 0, 0, 0.166);
+}
+.twelve{
+    height: 150px;
+    margin-top: 15px;
+    align-items: center;
+}
+.twelve button{
+    width: 300px;
+    background-color: hwb(60 44% 2%);
+    border: none;
+}
+.twelve,.mm{
+    padding-top: 20px;
+    position: relative;
+    top: 15px;
+    
+}
+ .dark{ background-color: #444b54d6;}
+
+
+ .pppp{
+    background-color: #0c0a0a53;
+ }
+ .pppp ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+ }
+ .pppp li{
+    color: white;
+   
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    
+ }
+ .fifte{
+    background-color: #444b54d6;
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ input::placeholder{
+    color: white;
+ }
+ input[type="number"],[type="text"]{
+    width: 120px;
+    margin:0px 3px;
+    
+ }
